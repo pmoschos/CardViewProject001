@@ -26,9 +26,8 @@ public class MainActivity extends AppCompatActivity {
     private List<Movie> movieList;
     private MyAdapter myAdapter;
     private ConstraintLayout mainLayout;
-
-    private String[] titles = {"Title 01", "Title 02","Title 03","Title 04","Title 05","Title 06"};
-    private String[] categories = {"Category 01", "Category 02","Category 03","Category 04","Category 05","Category 06"};
+    private String[] titles = {"The Shawshank Redemption", "The Godfather","Schindler's List","Inception ","Toy Story","The Dark Knight"};
+    private String[] categories = {"Drama", "Crime/Drama","Historical Drama","Science Fiction/Thriller","Animation/Family","Action/Crime"};
     private int[] images = {
             R.drawable.image01,
             R.drawable.image02,
