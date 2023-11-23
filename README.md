@@ -27,7 +27,8 @@ cd your-repository
 ```
 
 ## Our App 📷
-![image](https://github.com/pmoschos/CardViewProject001/assets/133533759/4e9beb15-33f4-401b-afdb-cc8bfae25753)
+![image](https://github.com/pmoschos/CardViewProject001/assets/133533759/f7a4db89-02cb-4da3-9e66-6938a5e83e16)
+
 
 <h1 align=center>Happy Coding 👨‍💻 </h1>
 
